@@ -5,7 +5,9 @@
 <body style="background-color:pink;">
 
 <h1>This is my Final Poject</h1>
-<p>Links to everything</p>
+
+
+<p style="color:red;">My Favorite Color is Red</p>
 
 <p><a href="https://www.princeton.edu/sites/default/files/styles/half_2x/public/images/2022/02/KOA_Nassau_2697x1517.jpg?itok=iQEwihUn">Favorite Animals</a></p>
 <p><b><a href="file:///C:/Users/andys/OneDrive/Desktop/Favorite%20Foods%20html.html">Favorite Foods</a></b></p>
